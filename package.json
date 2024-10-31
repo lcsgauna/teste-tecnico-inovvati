@@ -1,0 +1,8 @@
+{
+  "name": "teste-tecnico-inovvati",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lcsgauna/teste-tecnico-inovvati.git",
+  "author": "Lucas Gauna Samudio <lucasgsamudio@gmail.com>",
+  "license": "MIT"
+}
