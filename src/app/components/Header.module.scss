@@ -1,0 +1,15 @@
+.header{
+    background: hsl(0, 0%, 13%);
+    width: 100dvw;
+    height: 8dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:2rem;
+}
+
+.header_item{
+    text-decoration: none;
+    color: hsl(0, 0%, 80%);
+}
+
